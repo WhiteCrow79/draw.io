@@ -4,17 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-1" value="노션 기본" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-1" value="노션 기본" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-2" value="노션 포트폴리오" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-2" value="노션 포트폴리오" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-3" value="노션 단축키" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-3" value="노션 단축키" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-4" value="노션 이모지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfUBN0oTIlwl1Jb_Y5wv-4" value="노션 이모지" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEdqoeVucp2wAGbZDeHI-1" value="데이터베이스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
